@@ -1,0 +1,6 @@
+#37517e
+  filter: grayscale(100);
+#4CBB17 green
+#31a9e1 sky blue
+
+#191970 blue

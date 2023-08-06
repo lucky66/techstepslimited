@@ -257,7 +257,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #47b2e4;
+  color: #4CBB17;
 }
 
 .navbar .dropdown:hover>ul {
@@ -1075,6 +1075,7 @@ section {
 }
 
 .portfolio-details .portfolio-description p {
+  text-align: justify;
   padding: 0;
 }
 
@@ -1562,7 +1563,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #209dd8;
+  background: #4CBB17;
 }
 
 @keyframes animate-loading {
